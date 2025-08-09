@@ -1,3 +1,81 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://ahlanbags.com/"
+languageCode: "en-us"
+title: "Ahlan Bags"
+theme: "hugo-papermodest"
+
+googleAnalytics: "G-YCMQXTYSX6"
+
+pagination:
+  pagerSize: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+
+params:
+  env: "production"
+  author: "Ahlan Bags"
+  defaultTheme: "auto"
+  showReadingTime: true
+  showCodeCopyButtons: true
+  ShowPostNavLinks: true
+  showBreadCrumbs: true
+  showToc: true
+  tocopen: true
+  mainSections: ["posts"]
+  ShowSearch: true
+  ShowSocialIcons: true
+  ShowPostIcons: true
+  ShowFeaturedImageInList: true
+  ShowFeaturedImageInPost: true
+
+  images:
+    - "/images/og-image.webp"
+
+  cover:
+    responsiveImages: false
+
+  socialIcons:
+    - name: "facebook"
+      url: "https://facebook.com/ahlanbags"
+    - name: "youtube"
+      url: "https://www.youtube.com/@ahlanbags"
+    - name: "instagram"
+      url: "https://www.instagram.com/ahlanbags"
+    - name: "x-twitter"
+      url: "https://x.com/ahlanbags"
+    - name: "at"
+      url: "mailto:ahlan@ahlanbags.com"
+
+  footer:
+    links:
+      - name: Privacy Policy
+        url: /legal/privacy-policy/
+      - name: Terms of Use
+        url: /legal/terms-of-use/
+      - name: Refund Policy
+        url: /legal/refund-and-cancellation-policy/
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/posts/"
+      weight: 3
+    - name: "Search"
+      url: "/search/"
+      weight: 4
