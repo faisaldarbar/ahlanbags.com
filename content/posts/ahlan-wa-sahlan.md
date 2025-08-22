@@ -19,4 +19,4 @@ cover:
 
 So together, it’s a friendly way of saying **“You are among friends, and we wish you an easy, pleasant time.”** It’s often used to warmly welcome someone.
 
-Thank you for being part of the Ahlan Bags community!
+Thank you for being part of the Ahlan Bags community!!
