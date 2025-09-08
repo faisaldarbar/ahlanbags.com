@@ -11,7 +11,7 @@ Welcome to **Ahlan Bags**, your trusted destination for stylish, high-quality ba
 
 ## 🏬 Our Journey  
 
-Ahlan Bags was established in **2009** in **City Chowk, Aurangabad**, where we proudly served our customers for a decade. After a brief break, we are thrilled to reopen at **Roshan Gate, Aurangabad**, with a fresh collection and renewed passion for bringing you the best in bags and accessories..
+Ahlan Bags was established in **2009** in **City Chowk, Aurangabad**, where we proudly served our customers for a decade. After a brief break, we are thrilled to reopen at **Roshan Gate, Aurangabad**, with a fresh collection and renewed passion for bringing you the best in bags and accessories.
 
 ## 🎒 Our Collection
 
