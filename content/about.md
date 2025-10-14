@@ -36,7 +36,7 @@ He brings a unique blend of tech expertise and retail insight to everything we d
 
 ## 📍 Visit Us Today!  
 
-We invite you to come and explore our latest collection. We have something for everyone!
+We invite you to come and explore our latest collection. We have something for everyone.
 
 ## 🗺️ Our Location
 
