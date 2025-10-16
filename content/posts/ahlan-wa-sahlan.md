@@ -9,7 +9,7 @@ showBreadCrumbs: true
 showReadingTime: true
 author: "Ahlan Bags"
 showToc: true
-tocopen: false
+tocopen: true
 
 cover:
   image: "/images/ahlanbags.webp"
