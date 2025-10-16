@@ -48,6 +48,8 @@ params:
       url: "https://www.instagram.com/ahlanbags"
     - name: "x-twitter"
       url: "https://x.com/ahlanbags"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/company/ahlanbags"
     - name: "at"
       url: "mailto:ahlan@ahlanbags.com"
 
