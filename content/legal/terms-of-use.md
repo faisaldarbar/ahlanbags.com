@@ -5,6 +5,11 @@ draft: false
 layout: page
 type: page
 permalink: /legal/terms-of-use/
+showBreadCrumbs: true
+showReadingTime: true
+author: "Ahlan Bags"
+showToc: true
+tocopen: true
 ---
 
 **Effective Date: June 30, 2025**
