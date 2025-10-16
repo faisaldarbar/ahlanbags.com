@@ -1,9 +1,16 @@
 ---
 title: "About"
+draft: false
+showBreadCrumbs: true
+showReadingTime: true
+author: "Ahlan Bags"
+showToc: true
+tocopen: true
 
+cover:
+  image: "/images/og-image.webp"
+  alt: "Ahlan Bags"
 ---
-
-{{< aboutimage >}}
 
 ## 👋 Welcome
 

@@ -4,6 +4,12 @@ date: 2025-08-08T02:30:00Z
 description: "Our First Blog Post"
 categories: ["General"]
 tags: [ahlan, ahlan wa sahlan, ahlan bags]
+draft: false
+showBreadCrumbs: true
+showReadingTime: true
+author: "Ahlan Bags"
+showToc: true
+tocopen: false
 
 cover:
   image: "/images/ahlanbags.webp"

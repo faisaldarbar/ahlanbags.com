@@ -23,14 +23,9 @@ outputs:
 
 params:
   env: "production"
-  author: "Ahlan Bags"
   defaultTheme: "auto"
-  showReadingTime: true
   showCodeCopyButtons: true
   ShowPostNavLinks: true
-  showBreadCrumbs: true
-  showToc: true
-  tocopen: true
   mainSections: ["posts"]
   ShowSearch: true
   ShowSocialIcons: true
