@@ -38,6 +38,6 @@ This site may contain links to other websites or services, including including t
 
 These Terms may change over time. Updates will appear here with the new effective date.
 
-## Contact
+## 6. Contact
 
 If you have any questions about these terms, email us at: [ahlan@ahlanbags.com](mailto:ahlan@ahlanbags.com)
