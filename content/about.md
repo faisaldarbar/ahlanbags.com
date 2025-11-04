@@ -37,7 +37,7 @@ We specialize in a wide range of **bags for every occasion**, including:
 
 ## 👤 Meet the Proprietor
 
-Ahlan Bags is proudly owned and operated by {{< faisaldarbarlink >}} — a Microsoft Certified professional with a strong background in IT, software development, cloud computing, and business consulting.
+Ahlan Bags is proudly owned and operated by {{< faisaldarbarlink >}} — a professional with a strong background in IT, software development, cloud computing, and business consulting.
 
 He brings a unique blend of tech expertise and retail insight to everything we do, driving quality, innovation, and customer satisfaction.
 
